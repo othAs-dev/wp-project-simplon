@@ -1,0 +1,146 @@
+2022-11-08T09:49:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 241664 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-11-08T09:53:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-11-08T09:53:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-11-08T09:54:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/contact-form-7/includes/swv/rules/maxfilesize.php à la ligne 40
+
+2022-11-08T09:55:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/contact-form-7/includes/swv/rules/maxdate.php à la ligne 1
+
+2022-11-08T09:55:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/themes/flatsome/inc/admin/advanced/functions/functions.facebook.php à la ligne 44
+
+2022-11-08T09:56:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/mailpoet/lib/Entities/DynamicSegmentFilterEntity.php à la ligne 1
+
+2022-11-08T09:56:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/mailpoet/lib/Entities/DynamicSegmentFilterEntity.php à la ligne 1
+
+2022-11-08T09:56:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/mailpoet/lib/Entities/DynamicSegmentFilterEntity.php à la ligne 42
+
+2022-11-08T09:57:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/blocks/blocks-json.php à la ligne 1
+
+2022-11-08T09:57:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/blocks/blocks-json.php à la ligne 1
+
+2022-11-08T09:59:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/functions.php à la ligne 651
+
+2022-11-08T10:01:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/functions.wp-scripts.php à la ligne 133
+
+2022-11-08T10:02:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 233472 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-11-08T10:04:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/pomo/mo.php à la ligne 322
+
+2022-11-08T10:05:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2187
+
+2022-11-08T10:05:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/i18n/states.php à la ligne 904
+
+2022-11-08T10:06:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-11-08T10:08:03+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2187
+
+2022-11-08T10:08:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/functions.php à la ligne 4802
+
+2022-11-08T10:08:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-11-08T10:08:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/CartOrderSummaryShippingBlock.php à la ligne 1
+
+2022-11-08T10:11:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-notices.php à la ligne 351
+
+2022-11-08T10:16:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/mailpoet/lib/Entities/DynamicSegmentFilterEntity.php à la ligne 50
+
+2022-11-08T10:16:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-11-08T10:17:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-11-08T10:18:30+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2187
+
+2022-11-08T10:18:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2187
+
+2022-11-08T10:19:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/elementor/includes/fonts.php à la ligne 649
+
+2022-11-08T10:22:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/functions.php à la ligne 651
+
+2022-11-08T10:26:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/plugin.php à la ligne 125
+
+2022-11-08T10:26:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php à la ligne 2253
+
+2022-11-08T10:29:59+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php à la ligne 2253
+
+2022-11-08T10:33:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/Cart.php à la ligne 1
+
+2022-11-08T10:33:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/Cart.php à la ligne 1
+
+2022-11-08T10:36:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/AbstractBlock.php à la ligne 446
+
+2022-11-08T10:36:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/BlockTypes/Checkout.php à la ligne 294
+
+2022-11-08T10:36:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.asset.php à la ligne 1
+
+2022-11-08T10:37:26+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2264
+
+2022-11-08T10:38:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/wordpress-seo/src/integrations/third-party/elementor.php à la ligne 764
+
+2022-11-08T10:41:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/wordpress-seo/src/integrations/watchers/indexable-date-archive-watcher.php à la ligne 1
+
+2022-11-08T10:42:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/functions.php à la ligne 651
+
+2022-11-08T10:44:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/wordpress-seo/src/integrations/blocks/structured-data-blocks.php à la ligne 1
+
+2022-11-08T10:44:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/wordpress-seo/src/integrations/blocks/structured-data-blocks.php à la ligne 1
+
+2022-11-08T10:44:49+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/wordpress-seo/src/integrations/blocks/structured-data-blocks.php à la ligne 1
+
+2022-11-08T10:49:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/class-wc-admin.php à la ligne 56
+
+2022-11-08T10:49:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 49152 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-11-08T10:49:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/wc-admin-functions.php à la ligne 1
+
+2022-11-08T10:49:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/wc-admin-functions.php à la ligne 1
+
+2022-11-08T10:49:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/wc-admin-functions.php à la ligne 1
+
+2022-11-08T10:54:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-menus.php à la ligne 328
+
+2022-11-08T10:55:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 241664 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2187
+
+2022-11-08T10:55:10+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/wc-admin-functions.php à la ligne 1
+
+2022-11-08T10:55:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-notices.php à la ligne 351
+
+2022-11-08T10:56:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-menus.php à la ligne 328
+
+2022-11-08T11:06:57+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/admin/wc-admin-functions.php à la ligne 1
+
+2022-11-08T11:07:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-v2-controller.php à la ligne 347
+
+2022-11-08T11:09:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wp-hook.php à la ligne 80
+
+2022-11-08T11:10:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/blocks/blocks-json.php à la ligne 1
+
+2022-11-08T11:11:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/class-wc-regenerate-images-request.php à la ligne 1
+
+2022-11-08T11:12:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 266240 bytes) in /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/pomo/streams.php on line 127
+
+2022-11-08T11:12:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 266240 bytes) in /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/pomo/streams.php on line 127
+
+2022-11-08T11:16:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 241664 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2187
+
+2022-11-08T11:16:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 241664 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/class-wpdb.php à la ligne 2187
+
+2022-11-08T11:17:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/src/Utilities/NumberUtil.php à la ligne 1
+
+2022-11-08T11:20:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php à la ligne 1
+
+2022-11-08T11:20:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/wordpress-seo/src/context/meta-tags-context.php à la ligne 333
+
+2022-11-08T11:20:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/wordpress-seo/src/integrations/cleanup-integration.php à la ligne 236
+
+2022-11-08T11:20:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/wordpress-seo/src/context/meta-tags-context.php à la ligne 333
+
+2022-11-08T11:23:08+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 28672 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/mailpoet/lib/AutomaticEmails/WooCommerce/Events/PurchasedInCategory.php à la ligne 50
+
+2022-11-08T11:26:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-includes/blocks/blocks-json.php à la ligne 1
+
+2022-11-08T11:29:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/packages/woocommerce-blocks/src/StoreApi/Formatters/MoneyFormatter.php à la ligne 1
+
+2022-11-08T12:55:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /Users/othmanem1/Desktop/CoursSimplon/php/khene/wp-content/plugins/woocommerce/includes/class-wc-regenerate-images-request.php à la ligne 236
+
